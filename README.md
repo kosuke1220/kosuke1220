@@ -1,16 +1,35 @@
-## Hi there 👋
+# こんにちは、Kosuke です
 
-<!--
-**kosuke1220/kosuke1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+筑波大学大学院でサービス工学を専攻し、動画配信サービスの視聴者行動分析を研究しています。
+データ分析を通じて、サービス運営の意思決定を支えることに関心があります。
 
-Here are some ideas to get you started:
+## 研究内容
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+動画配信事業者との産学連携プロジェクトで、視聴ログの分析に取り組んでいます。
+個人最適化のレコメンドとは異なり、視聴者を「集団単位の嗜好構造」として捉えることを目的としています。
+
+- 大規模な視聴ログをネットワークとして構築し、構造を分析する
+- コミュニティ検出により、嗜好を共有する視聴者集団を抽出する
+- 分析結果を、事業者の中長期の意思決定に使える形に整理する
+
+## 技術スタック
+
+- **言語**: Python, SQL
+- **データ分析**: pandas, NumPy
+- **ネットワーク分析**: NetworkX（Louvain / Leiden によるコミュニティ検出）
+- **可視化**: matplotlib
+- **基盤**: BigQuery (Google Cloud)
+- **その他**: コサイン類似度による類似度算出、自然言語処理によるコンテンツ分類
+
+## 学び・資格
+
+- 松尾研究室 GCI（Global Consumer Intelligence）, DL基礎講座　修了
+- JDLA E資格 取得に向けて学習中
+
+## 発表
+
+- 計算社会科学会 2026（ポスター発表）：視聴行動の類似性に基づくネットワーク分析
+
+## 関心
+
+データの背後にある人の行動や集団の構造を読み解き、サービスをより良くすること！
