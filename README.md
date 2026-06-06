@@ -17,7 +17,7 @@
 - **言語**: Python, SQL
 - **データ分析**: pandas, NumPy
 - **ネットワーク分析**: NetworkX（Louvain / Leiden によるコミュニティ検出）
-- **可視化**: matplotlib
+- **可視化**: matplotlib, Gephi
 - **基盤**: BigQuery (Google Cloud)
 - **その他**: コサイン類似度による類似度算出、自然言語処理によるコンテンツ分類
 
